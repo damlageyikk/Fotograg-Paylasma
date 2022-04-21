@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "443755045916",
+    "project_id": "projeplanlama-a2cfe",
+    "storage_bucket": "projeplanlama-a2cfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443755045916:android:bbe103a1b9beb0a286ebd9",
+        "android_client_info": {
+          "package_name": "com.damla.fotografpaylasma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443755045916-qguhmv1842dv871jultdf36rbca52m78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWzhCjX8ODigxAPfYMeor6lmsnMXKiONE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443755045916-qguhmv1842dv871jultdf36rbca52m78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
